@@ -1,0 +1,30 @@
+export const datos=[
+    {
+        "nombre":'Juan',
+        "edad":20,
+        "cuatrimestre":3,
+        "carrera":"DSM",
+        "id":1
+    },
+    {
+        "nombre":'Juan',
+        "edad":20,
+        "cuatrimestre":3,
+        "carrera":"DSM",
+        "id":2
+    },
+    {
+        "nombre":'Juan',
+        "edad":20,
+        "cuatrimestre":3,
+        "carrera":"DSM",
+        "id":3
+    },
+    {
+        "nombre":'Juan',
+        "edad":20,
+        "cuatrimestre":3,
+        "carrera":"DSM",
+        "id":4
+    }
+]
